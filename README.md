@@ -2,8 +2,6 @@
 
 This is a simple calculator built using the PyQt5 library and the decimal module for precise calculations. The calculator has basic arithmetic operations and displays a history of queries and their results.
 
-![Calculator Screenshot](screenshot.png)
-
 ## Dependencies
 
 You need the following dependencies to run the calculator:
